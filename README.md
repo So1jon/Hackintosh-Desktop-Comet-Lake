@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/So1jon?label=So1jon&logo=GitHub&style=social" />
 </a> 
 
-[![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Comet-Lake/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Haswell/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Comet-Lake/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Comet-Lake/releases)
 
 <details>
 <summary><strong>Hardware specifications:</strong></summary>
