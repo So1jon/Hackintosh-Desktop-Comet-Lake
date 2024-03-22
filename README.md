@@ -26,7 +26,7 @@
 | **iGPU**        | `Intel® UHD Graphics 630`               | [`Intel Comet Lake`](https://ark.intel.com/content/www/us/en/ark/products/graphics/126790.html#@Desktop)                                              |
 | **dGPU**        | `AMD Radeon RX 580 8GB`                 | [`Sapphire NITRO+`](https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5)                                                                        |
 | **Ram**         | `DDR4 16GB / 2666 Mhz`                   | [`Kingston`](https://www.kingston.com/datasheets/KVR26N19S6_8.pdf)                                                                                         |
-| **Storage**     | `PNY CS1030 250GB M.2 NVMe SSD PCIe Gen3 x4`| [`PNY`](https://www.pny.com/cs1030-m2-nvme-ssd?sku=M280CS1030-250-RB)                                                                              |
+| **Storage**     | `CS1030 250GB PCIe M.2 NVMe SSD Gen3 x4`| [`PNY`](https://www.pny.com/cs1030-m2-nvme-ssd?sku=M280CS1030-250-RB)                                                                              |
 | **Ethernet**    | `Intel® I219-V (1000/100 Mbit)`         | [`Intel`](https://www.intel.com/content/www/us/en/products/sku/82186/intel-ethernet-connection-i219v/specifications.html)                               |
 | **Audio**       | `Codec ALC897`                          | [`Realtek`](https://www.realtek.com/en/products/computer-peripheral-ics/item/alc898)                                                                                                |
 | **USB Wi-Fi**   | `TL-WN725N V3`                          | [`TP-Link`](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                                        |
