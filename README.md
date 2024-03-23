@@ -20,8 +20,8 @@
 
 | Components      | Name                                    |  Brand Links                                                                                                                                               |
 | --------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Motherboard** | `H410M S2H V2 (rev. 1.0)`               | [`Gigabayte`](https://www.gigabyte.com/Motherboard/H410M-S2H-V2-rev-10#kf)                                                                                 |
-| **Power Supply** |`P550B 550w 80 PLUS Bronze certified`   | [`Gigabayte`](https://www.gigabyte.com/Power-Supply/GP-P550B#kf)                                                                                  |
+| **Motherboard** | `H410M S2H V2 (rev. 1.0)`               | [`Gigabyte`](https://www.gigabyte.com/Motherboard/H410M-S2H-V2-rev-10#kf)                                                                                 |
+| **Power Supply** |`P550B 550w 80 PLUS Bronze certified`   | [`Gigabyte`](https://www.gigabyte.com/Power-Supply/GP-P550B#kf)                                                                                  |
 | **CPU**         | `Intel® Core® i3 10100`                 | [`Intel Comet Lake`](https://www.intel.com/content/www/us/en/products/sku/199283/intel-core-i310100-processor-6m-cache-up-to-4-30-ghz/specifications.html)      |
 | **iGPU**        | `Intel® UHD Graphics 630`               | [`Intel Comet Lake`](https://ark.intel.com/content/www/us/en/ark/products/graphics/126790.html#@Desktop)                                              |
 | **dGPU**        | `AMD Radeon RX 580 8GB`                 | [`Sapphire NITRO+`](https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5)                                                                        |
