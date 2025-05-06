@@ -258,10 +258,10 @@
 
 | Information           | Result   | ID Information                                                 | Operating system  | Model ID     |
 | --------------------- | -------- | -------------------------------------------------------------- | ----------------- | ------------ |
-| CPU Single-Core Score | 1462     | [ID 5272446](https://browser.geekbench.com/v6/cpu/5272446)     | `macOS Sonoma`    | `iMac20,1`   |
-| CPU Multi-Core Score  | 4902     | [ID 5272446](https://browser.geekbench.com/v6/cpu/5272446)     | `macOS Sonoma`    | `iMac20,1`   |
-| dGPU OpenCL Score     | 48490    | [ID 1899971](https://browser.geekbench.com/v6/compute/1899971) | `macOS Sonoma`    | `iMac20,1`   |
-| dGPU Metal Score      | 62450    | [ID 1894448](https://browser.geekbench.com/v6/compute/1894448) | `macOS Sonoma`    | `iMac20,1`   |
+| CPU Single-Core Score | 1454     | [ID 11824820](https://browser.geekbench.com/v6/cpu/11824820)   | `macOS Sequoia`   | `iMac20,1`   |
+| CPU Multi-Core Score  | 5050     | [ID 11824820](https://browser.geekbench.com/v6/cpu/11824820)   | `macOS Sequoia`   | `iMac20,1`   |
+| dGPU OpenCL Score     | 48364    | [ID 4112700](https://browser.geekbench.com/v6/compute/4112700) | `macOS Sequoia`   | `iMac20,1`   |
+| dGPU Metal Score      | 63168    | [ID 4112686](https://browser.geekbench.com/v6/compute/4112686) | `macOS Sequoia`   | `iMac20,1`   |
 | iGPU OpenCL Score     | 3873     | [ID 2339053](https://browser.geekbench.com/v6/compute/2339053) | `macOS Sonoma`    | `Macmini8,1` |
 | iGPU Metal Score      | 5358     | [ID 2339007](https://browser.geekbench.com/v6/compute/2339007) | `macOS Sonoma`    | `Macmini8,1` |
 
