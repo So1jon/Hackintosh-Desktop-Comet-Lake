@@ -163,12 +163,12 @@
 
 :closed_lock_with_key: You will need to generate your own SMBIOS and configure, since is required to fully work with macOS. As per you can use the following SMBIOS:
 
-|  SMBIOS    |  Hardware                                        |  macOS Big Sur              |  macOS Monterey            |  macOS Ventura   |  macOS Sonoma  |
-| ---------- | ------------------------------------------------ | --------------------------- | -------------------------- | ---------------- | -------------- |
-| Macmini8,1 | Comet Lake with only iGPU (Enabled Acceleration) |  full supported             |  full supported            | full supported   | full supported |
-| iMac20,1   | Comet Lake with dGPU (Enabled iGPU Acceleration) |  full supported             |  full supported            | full supported   | full supported |
-| iMacPro1,1 | Comet Lake only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported |
-| MacPro7,1  | Comet Lake only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported |
+|  SMBIOS    |  Hardware                                        |  macOS Big Sur              |  macOS Monterey            |  macOS Ventura   |  macOS Sonoma  | macOS Sequoia  | macOS Tahoe    |
+| ---------- | ------------------------------------------------ | --------------------------- | -------------------------- | ---------------- | -------------- | -------------- | -------------- |
+| Macmini8,1 | Comet Lake with only iGPU (Enabled Acceleration) |  full supported             |  full supported            | full supported   | full supported | full supported | not supported  |
+| iMac20,1   | Comet Lake with dGPU (Enabled iGPU Acceleration) |  full supported             |  full supported            | full supported   | full supported | full supported | full supported |
+| iMacPro1,1 | Comet Lake only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported | full supported | not supported  |
+| MacPro7,1  | Comet Lake only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported | full supported | full supported |
 
 ⚠️ It's fully **required** to generate your own serials with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and put it in your config.plist.
 
